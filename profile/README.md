@@ -2,9 +2,9 @@
 
 # The Longevity Game
 
-- A personal health plan for sleep, nutrition, exercise, and stress.
-- A daily health insight and up to three quests tailored to your day.
-- A growing stone companion, streaks, and the option to play with friends.
+- **Build habits for the long run.** Work toward a longer, healthier life with a personal plan for sleep, nutrition, exercise, and stress.
+- **Find your pace.** Get daily health insights and shape your plan around what you enjoy and what feels doable today.
+- **Play together.** Join the Reliu community with your own stone companion. Complete quests, earn rewards, and unlock your next level.
 
 Visit [reliuhealth.com](https://reliuhealth.com) to learn more, and download Reliu from the App Store.
 
