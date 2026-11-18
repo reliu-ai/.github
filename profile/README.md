@@ -6,4 +6,6 @@
 - Get one insight and one to three quests each morning. After a short night of sleep, your quests get lighter.
 - Finish quests to move your stone companion along the trail. As you build habits, it grows from stone to jade.
 
-Visit [reliuhealth.com](https://reliuhealth.com) to learn more, or [download Reliu on the App Store](https://apps.apple.com/us/app/reliu/id6771586665).
+Visit [reliuhealth.com](https://reliuhealth.com) to learn more, and [download Reliu from the App Store](https://apps.apple.com/us/app/reliu/id6771586665).
+
+[![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us)](https://apps.apple.com/us/app/reliu/id6771586665)
