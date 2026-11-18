@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Reliu-Companion/.github/refs/heads/main/profile/assets/reliu-intro.gif" width="720" alt="Reliu — The longevity game.">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Reliu-Companion/.github/refs/heads/main/profile/assets/companion-loop.gif" width="184" alt="Reliu companion looking around, typing, walking and smiling">
 </p>
 
