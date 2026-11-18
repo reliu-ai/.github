@@ -1,6 +1,6 @@
 ![Sleep, Nutrition, Exercise, Stress. The Reliu companion looks around, types, walks and smiles.](https://raw.githubusercontent.com/Reliu-Companion/.github/refs/heads/main/profile/assets/reliu-pillars.svg)
 
-# <ins>The Longevity Game</ins>
+# The Longevity Game
 
 - Start with your routine. Reliu uses your health habits to build a personal plan.
 - Get one insight and one to three quests each morning. After a short night of sleep, your quests get lighter.
