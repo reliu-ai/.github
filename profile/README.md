@@ -2,9 +2,9 @@
 
 # The Longevity Game
 
-- Start with your routine. Reliu uses your health habits to build a personal plan.
-- Get one insight and one to three quests each morning. After a short night of sleep, your quests get lighter.
-- Finish quests to move your stone companion along the trail. As you build habits, it grows from stone to jade.
+- A personal health plan for sleep, nutrition, exercise, and stress.
+- A daily health insight and up to three quests tailored to your day.
+- A growing stone companion, streaks, and the option to play with friends.
 
 Visit [reliuhealth.com](https://reliuhealth.com) to learn more, and download Reliu from the App Store.
 
