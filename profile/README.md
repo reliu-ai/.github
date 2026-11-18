@@ -1,4 +1,4 @@
-![Sleep, Nutrition, Exercise, Stress. The Reliu companion stands beside the four pillars.](https://raw.githubusercontent.com/Reliu-Companion/.github/refs/heads/main/profile/assets/reliu-pillars-static.svg)
+![Sleep, Nutrition, Exercise, Stress.](https://raw.githubusercontent.com/reliu-health/.github/refs/heads/main/profile/assets/reliu-pillars-text.svg)
 
 # The Longevity Game
 
