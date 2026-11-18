@@ -2,13 +2,13 @@
 
 # The Longevity Game
 
-- **<ins>Build long-term habits</ins>**<br>
+- **Build long-term habits**<br>
   Work toward a longer, healthier life with a personal plan for sleep, nutrition, exercise, and stress management.
-- **<ins>Find your pace</ins>**<br>
+- **Find your pace**<br>
   Get daily health insights and shape your plan around what you enjoy and what feels doable today.
-- **<ins>Go further together</ins>**<br>
+- **Go further together**<br>
   Follow your friends’ progress, compare streaks, and cheer each other on.
-- **<ins>Watch your companion evolve</ins>**<br>
+- **Watch your companion evolve**<br>
   Each quest brings a reward and moves your companion closer to its next form.
 
 Visit [reliuhealth.com](https://reliuhealth.com) to learn more, and download Reliu from the App Store.
