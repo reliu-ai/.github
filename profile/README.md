@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Reliu-Companion/.github/refs/heads/main/profile/assets/smile.gif" width="150" alt="The Reliu companion smiling">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reliu-Companion/.github/refs/heads/main/profile/assets/companion-loop.gif" width="184" alt="Reliu companion looking around, typing, walking and smiling">
+</p>
 
 Reliu turns everyday health habits into daily quests with a companion that grows as you go.
 
