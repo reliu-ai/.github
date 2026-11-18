@@ -2,7 +2,7 @@
 
 # The Longevity Game
 
-- **Build habits for the long run.**<br>
+- **Build long-term habits.**<br>
   Work toward a longer, healthier life with a personal plan for sleep, nutrition, exercise, and stress.
 - **Find your pace.**<br>
   Get daily health insights and shape your plan around what you enjoy and what feels doable today.
